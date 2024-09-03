@@ -1,0 +1,14 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "description": "United States Dollar",
+      "rate": 1.0
+    },
+    {
+      "code": "EUR",
+      "description": "Euro",
+      "rate": 0.93
+    }
+  ]
+}
